@@ -3,3 +3,9 @@ print("I am an AI Engineer")
 print("I am learning Python for AI")
 print("I am learning Python for AI")
 print("I am learning Python for AI")
+
+
+def chai(n):
+    print(n)
+
+chai("Amol Kadam")
