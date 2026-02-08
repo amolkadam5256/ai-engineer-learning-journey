@@ -1,0 +1,4 @@
+print("Hello AI Engineer!")
+print("I am an AI Engineer")
+print("I am learning Python for AI")
+print("I am learning Python for AI")
